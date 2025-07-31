@@ -49,6 +49,7 @@ AMS/
 ├── main.py                 # Run this to launch dashboard
 └── README.md               # Project overview
 
+⚙️ Technologies Used
 | Category      | Tools/Frameworks          |
 | ------------- | ------------------------- |
 | Language      | Python 3.9+               |
